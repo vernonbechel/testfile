@@ -1,1 +1,2 @@
 Here is text I added and committed locally.
+Added line 2 locally on master branch.
