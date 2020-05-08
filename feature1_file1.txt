@@ -1,2 +1,5 @@
 changes to go in first commit
 for the feature1 branch
+
+add some more info for the second commit 
+on the feature1 branch
